@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Gujarati:wght@100;200;300;400;500;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Noto Serif Gujarati', serif;
+    background-color: rgb(199, 199, 246);
+}
+
+.container{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: white;
+    padding: 35px;
+    border-radius: 2px;
+}
+.card-footer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tweet-quote {
+    margin-right: 30px;
+    color: rgb(92, 92, 244);
+    font-size: 30px;
+    padding-top: 5px;
+}
+.blockquote-footer{
+   margin-top: 30px; 
+}
+.new-quote{
+    padding: 12px 22px;
+    background-color: rgb(92, 92, 244);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+}
+.text {
+    font-size: 30px;
+
+}
+.quote-icon {
+    font-size: 40px;
+    margin-bottom: 25px;
+    color: rgb(92, 92, 244);
+}
