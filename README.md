@@ -1,4 +1,4 @@
-# Random_Quote
+# Random Quote App
 React app which shows random quotes
 
 Link to live:
